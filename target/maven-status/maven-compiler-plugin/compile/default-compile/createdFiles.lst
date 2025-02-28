@@ -1,0 +1,6 @@
+com/rd/brewery/web/controller/BeerController.class
+com/rd/brewery/BreweryApplication.class
+com/rd/brewery/services/BeerServiceImpl.class
+com/rd/brewery/web/model/BeerDto$BeerDtoBuilder.class
+com/rd/brewery/web/model/BeerDto.class
+com/rd/brewery/services/BeerService.class
