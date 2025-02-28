@@ -1,7 +1,6 @@
 package com.rd.brewery.web.controller;
 
 import com.rd.brewery.services.CustomerService;
-import com.rd.brewery.web.model.BeerDto;
 import com.rd.brewery.web.model.CustomerDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
